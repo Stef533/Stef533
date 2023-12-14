@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on a LEGO website for a team project.<br><br>🌱 I’m currently learning abount Tailwind and React.<br><br>💬 U can contact me on : petreastefaniulian@gmail.com<br><br>⚡ Junior Full-Stack Developer (at the moment)
+🔭 I’m currently creating a website for a team project.<br><br>🌱 I’m currently learning Node.<br><br>💬 U can contact me on : petreastefaniulian@gmail.com<br><br>⚡ Junior Full-Stack Developer (at the moment)
 
 
 ## 🌐 Socials:
